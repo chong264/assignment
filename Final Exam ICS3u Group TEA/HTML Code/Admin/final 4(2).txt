@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body bgcolor="yellow">
+<h1>Admin panel</h1><br>
+<h2>Add new Game</h2>
+<button>Add Game</button><br>
+<h2>Remove Game from Game Store</h2>
+<button>remove Game</button><br>
+<h2>Manage Account</h2>
+<button>Manage Account</button><br>
+<body>
+<html>
